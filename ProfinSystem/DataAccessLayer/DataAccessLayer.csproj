@@ -42,12 +42,6 @@
     <Compile Include="DataAccessLayerClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\BussinessLayer\BussinessLayer.csproj">
-      <Project>{f994fc8f-85ea-48ea-a04c-9ac9b4fb94e0}</Project>
-      <Name>BussinessLayer</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

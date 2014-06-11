@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "PresentationLayer\PresentationLayer.csproj", "{D9E85085-EA1C-41BD-A467-F60B2C87B9A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLayer", "BussinessLayer\BussinessLayer.csproj", "{F994FC8F-85EA-48EA-A04C-9AC9B4FB94E0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{21FB09CF-80B8-4E1E-B583-51012C41CC71}"
 EndProject
 Global
@@ -17,10 +15,6 @@ Global
 		{D9E85085-EA1C-41BD-A467-F60B2C87B9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9E85085-EA1C-41BD-A467-F60B2C87B9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9E85085-EA1C-41BD-A467-F60B2C87B9A0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F994FC8F-85EA-48EA-A04C-9AC9B4FB94E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F994FC8F-85EA-48EA-A04C-9AC9B4FB94E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F994FC8F-85EA-48EA-A04C-9AC9B4FB94E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F994FC8F-85EA-48EA-A04C-9AC9B4FB94E0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{21FB09CF-80B8-4E1E-B583-51012C41CC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{21FB09CF-80B8-4E1E-B583-51012C41CC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21FB09CF-80B8-4E1E-B583-51012C41CC71}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -67,3 +67,33 @@ F:\ProfinSystem\PresentationLayer\bin\Debug\ribboncontrolslibrary.xml
 C:\Users\Employee\Desktop\ProfinSystem\PresentationLayer\bin\Debug\PresentationLayer.exe.config
 C:\Users\Employee\Desktop\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
 C:\Users\Employee\Desktop\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_AddEmployee.baml
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_DeleteEmployee.baml
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_EditEmployee.baml
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\frmLogin.baml
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frmEmployee.baml
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frm_Test.baml
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_AddEmployee.g.cs
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_DeleteEmployee.g.cs
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_EditEmployee.g.cs
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\frmLogin.g.cs
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frmEmployee.g.cs
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frmHumanResources.g.cs
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frm_Test.g.cs
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frmHumanResources.baml
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache

@@ -118,12 +118,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BussinessLayer\BussinessLayer.csproj">
-      <Project>{f994fc8f-85ea-48ea-a04c-9ac9b4fb94e0}</Project>
-      <Name>BussinessLayer</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Images\1353183085_save.png" />
     <Resource Include="Images\add.png" />
     <Resource Include="Images\copy.png" />
@@ -201,6 +195,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\DashBoard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{21fb09cf-80b8-4e1e-b583-51012c41cc71}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
