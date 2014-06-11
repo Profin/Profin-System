@@ -1,0 +1,20 @@
+﻿PresentationLayer
+
+
+winexe
+C#
+.cs
+F:\ProfinSystem\PresentationLayer\obj\Debug\
+PresentationLayer
+none
+false
+DEBUG;TRACE
+F:\ProfinSystem\PresentationLayer\App.xaml
+7375107819
+
+11955713142
+20-2141140566
+Employees\UC_AddEmployee.xaml;Employees\UC_DeleteEmployee.xaml;Employees\UC_EditEmployee.xaml;frmLogin.xaml;Main Forms\frmEmployee.xaml;Main Forms\frmHumanResources.xaml;Main Forms\frm_Test.xaml;
+
+False
+

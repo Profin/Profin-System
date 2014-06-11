@@ -1,0 +1,40 @@
+﻿<RibbonWindow xmlns:my="http://schemas.microsoft.com/winfx/2006/xaml/presentation/ribbon" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:RibbonWin="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Ribbon"
+        xmlns:Employees="clr-namespace:PresentationLayer.Employees" x:Class="PresentationLayer.Main_Forms.frmHumanResources"
+        Title="Human Resources" Height="720" Width="1280" WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="55*"/>
+        </Grid.RowDefinitions>
+        <Ribbon x:Name="RibbonWin"  SelectedIndex="0" Background="White" Margin="0,0,-1,0" Grid.RowSpan="2" >
+            <Ribbon.QuickAccessToolBar>
+                <RibbonQuickAccessToolBar/>
+            </Ribbon.QuickAccessToolBar>
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu>
+                    <RibbonApplicationMenuItem Header="Options" ImageSource="/PresentationLayer;component/Images\options.png" />
+                    <RibbonApplicationMenuItem Header="Exit" ImageSource="/PresentationLayer;component/Images\quit.png" />
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+            <RibbonTab Header="Home">
+                <RibbonGroup x:Name="Employee" Header="Employee">
+                    <RibbonMenuButton LargeImageSource="/PresentationLayer;component/Images/Maintanence.png" Label="Maintenance" ToolTip="Click to view employee options">
+                        <RibbonMenuItem x:Name="ButtonMaintainEmployees" ImageSource="/PresentationLayer;component/Images/EmployeeIcon.png" Header="Maintain Employee Information" Click="ButtonMaintainEmployees_Click"/>
+                        <RibbonMenuItem x:Name="ButtonMaintainSupervisors"  ImageSource="/PresentationLayer;component/Images/personal.png" Header="Maintain Supervisors"/>
+                        <RibbonMenuItem x:Name="ButtonMaintainRepresentatives"  ImageSource="/PresentationLayer;component/Images/personal.png" Header="Maintain Representatives" />
+                    </RibbonMenuButton>
+                    
+                </RibbonGroup>
+                <RibbonGroup x:Name="Dashboard" Header="Dashboard">
+                    <RibbonButton LargeImageSource="/PresentationLayer;component/Images/clients.png" Label="Dashboard" />
+                </RibbonGroup>
+            </RibbonTab>
+        </Ribbon>
+        <DockPanel x:Name="UIPanelHR" Margin="0,138,0,0" Grid.RowSpan="2" HorizontalAlignment="Stretch" >
+            
+        </DockPanel>
+    </Grid>
+</RibbonWindow>

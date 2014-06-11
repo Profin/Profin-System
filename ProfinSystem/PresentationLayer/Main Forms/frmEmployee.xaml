@@ -1,0 +1,63 @@
+﻿<RibbonWindow x:Class="PresentationLayer.Main_Forms.frmEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:RibbonWin="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Ribbon"
+        Title="Employee" Height="500" Width="1000" WindowState="Maximized" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="472"/>
+        </Grid.RowDefinitions>
+        <Ribbon x:Name="RibbonWin"  SelectedIndex="0" Background="White" Margin="0,0,-0.4,0" >
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu>
+                    <RibbonApplicationMenuItem Header="Options" ImageSource="/PresentationLayer;component/Images\options.png" />
+                    <RibbonApplicationMenuItem Header="Exit" ImageSource="/PresentationLayer;component/Images\quit.png" />
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+            <Ribbon.HelpPaneContent>
+                <RibbonButton SmallImageSource="/PresentationLayer;component/Images/help.png" />
+            </Ribbon.HelpPaneContent>
+            <Ribbon.QuickAccessToolBar>
+                <RibbonQuickAccessToolBar>
+                    <RibbonButton x:Name ="Save" SmallImageSource="/PresentationLayer;component/Images\save.png" />
+                    <RibbonSplitButton x:Name ="Undo" SmallImageSource="/PresentationLayer;component/Images\undo.png" >
+                        <RibbonSplitMenuItem Header="Undo 1" />
+                        <RibbonSplitMenuItem Header="Undo 2" />
+                        <RibbonSplitMenuItem Header="Undo 3" />
+                    </RibbonSplitButton>
+                    <RibbonSplitButton x:Name="Redo" SmallImageSource="/PresentationLayer;component/Images\redo.png" >
+                        <RibbonSplitMenuItem Header="Redo 1" />
+                        <RibbonSplitMenuItem Header="Redo 2" />
+                    </RibbonSplitButton>
+                </RibbonQuickAccessToolBar>
+            </Ribbon.QuickAccessToolBar>
+
+            <RibbonTab Header="Home">
+                <RibbonGroup x:Name="Employee" Header="Employee">
+                    <RibbonMenuButton LargeImageSource="/PresentationLayer;component/Images/personal.png" Label="Employee" ToolTip="Click to view employee options">
+                        <RibbonMenuItem Name="ButtonAddEmployee" ImageSource="/PresentationLayer;component/Images/personal.png" Header="Add Employee Information"/>
+                        <RibbonMenuItem Name="ButtonEditEmployee"  ImageSource="/PresentationLayer;component/Images/personal.png" Header="Edit Employee Information"/>
+                        <RibbonMenuItem Name="ButtonDeleteEmployee"  ImageSource="/PresentationLayer;component/Images/personal.png" Header="Delete Employee"/>
+                    </RibbonMenuButton>
+                </RibbonGroup>
+            </RibbonTab>
+            <RibbonTab Header="Interns">
+            </RibbonTab>
+            <RibbonTab Header="Leave">
+            </RibbonTab>
+            <RibbonTab Header="Training">
+            </RibbonTab>
+            <RibbonTab Header="Compliance">
+            </RibbonTab>
+            <RibbonTab Header="Leads">
+            </RibbonTab>
+            <RibbonTab Header="Supervision Plan">
+            </RibbonTab>
+            <RibbonTab Header="Late Arrival">
+            </RibbonTab>
+        </Ribbon>
+    </Grid>
+</RibbonWindow>

@@ -1,0 +1,14 @@
+C:\Users\Jiji\Desktop\ProfinSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Jiji\Desktop\ProfinSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Jiji\Desktop\ProfinSystem\DataAccessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\Jiji\Desktop\ProfinSystem\DataAccessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\Jiji\Desktop\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jiji\Desktop\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Jiji\Desktop\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\ProfinSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\ProfinSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\ProfinSystem\DataAccessLayer\bin\Debug\BussinessLayer.dll
+F:\ProfinSystem\DataAccessLayer\bin\Debug\BussinessLayer.pdb
+F:\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
