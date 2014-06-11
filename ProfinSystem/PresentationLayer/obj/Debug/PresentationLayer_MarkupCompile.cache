@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\
 PresentationLayer
 none
 false
 DEBUG;TRACE
-C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\App.xaml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\App.xaml
 7375107819
 
 11955713142
-19-529966891
+20-657841824
 Employees\UC_AddEmployee.xaml;Employees\UC_DeleteEmployee.xaml;Employees\UC_EditEmployee.xaml;frmLogin.xaml;Main Forms\frmEmployee.xaml;Main Forms\frmHumanResources.xaml;Main Forms\frm_Test.xaml;
 
 False

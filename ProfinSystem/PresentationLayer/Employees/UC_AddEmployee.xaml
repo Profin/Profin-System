@@ -14,7 +14,7 @@
                             <DropShadowEffect/>
                         </Image.Effect>
                     </Image>
-                    <Label Content="Salutation:" HorizontalAlignment="Left" Margin="10,257,0,0" VerticalAlignment="Top" Width="132" HorizontalContentAlignment="Right" Background="#FFB1FA9C"/>
+                    <Label Content="Salutation:" HorizontalAlignment="Left" Margin="10,257,0,0" VerticalAlignment="Top" Width="129" HorizontalContentAlignment="Right" Background="#FFB1FA9C"/>
                     <Label Content="First Name:" HorizontalAlignment="Left" Margin="10,285,0,0" VerticalAlignment="Top" Width="129" HorizontalContentAlignment="Right" Background="#FFB1FA9C"/>
                     <Label Content="Last Name:" HorizontalAlignment="Left" Margin="10,313,0,0" VerticalAlignment="Top" Width="129" HorizontalContentAlignment="Right" Background="#FFB1FA9C"/>
                     <Label Content="ID Number:" HorizontalAlignment="Left" Margin="10,341,0,0" VerticalAlignment="Top" Width="129" HorizontalContentAlignment="Right" Background="#FFB1FA9C" RenderTransformOrigin="0.477,0.524"/>
@@ -36,7 +36,7 @@
                     <TextBox HorizontalAlignment="Left" Height="23" Margin="144,314,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224"/>
                     <TextBox x:Name="txtEmployeeIDNo" HorizontalAlignment="Left" Height="23" Margin="144,343,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224" TextChanged="txtEmployeeIDNo_TextChanged"/>
                     <TextBox HorizontalAlignment="Left" Height="23" Margin="144,370,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-                    <RadioButton Content="Male" HorizontalAlignment="Left" Margin="140,403,0,0" VerticalAlignment="Top"/>
+                    <RadioButton Content="Male" HorizontalAlignment="Left" Margin="146,404,0,0" VerticalAlignment="Top"/>
                     <RadioButton Content="Female" HorizontalAlignment="Left" Margin="194,403,0,0" VerticalAlignment="Top"/>
                     <TextBox HorizontalAlignment="Left" Height="23" Margin="144,483,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224"/>
                     <TextBox HorizontalAlignment="Left" Height="23" Margin="144,511,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="224"/>
