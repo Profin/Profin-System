@@ -17,3 +17,6 @@ C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\DataAccessLayer\bin\
 C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
 C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

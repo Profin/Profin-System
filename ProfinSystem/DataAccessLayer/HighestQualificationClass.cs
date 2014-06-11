@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer
 {
-    class HighestQualificationClass
+    public class HighestQualificationClass
     {
         public HighestQualificationClass() { }
 

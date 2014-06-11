@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer
 {
-    class CompanyClass
+    public class CompanyClass
     {
         public CompanyClass() { }
 
