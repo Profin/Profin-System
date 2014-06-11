@@ -97,6 +97,43 @@ C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\ob
 C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.g.resources
 C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
 C:\Users\Keenan\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\Profin-admin3\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\PresentationLayer.exe.config
 C:\Users\Profin-admin3\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
 C:\Users\Profin-admin3\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+=======
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\WPFToolkit.dll
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\bin\Debug\WPFToolkit.pdb
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_AddEmployee.baml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_DeleteEmployee.baml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_EditEmployee.baml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\frmLogin.baml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frmEmployee.baml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frm_Test.baml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_AddEmployee.g.cs
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_DeleteEmployee.g.cs
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Employees\UC_EditEmployee.g.cs
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\frmLogin.g.cs
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frmEmployee.g.cs
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frmHumanResources.g.cs
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frm_Test.g.cs
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\Main Forms\frmHumanResources.baml
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Employee\Documents\GitHub\Profin-System\ProfinSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+>>>>>>> origin/master
